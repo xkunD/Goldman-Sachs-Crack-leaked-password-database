@@ -1,8 +1,8 @@
 # Goldman-Sachs-Crack-leaked-password-database
- ## Overview
+ ## 😃 Overview
  As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. To be successful at your job you often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most of perimeter controls in place.
  
- ## Project Objective
+ ## 📌 Project Objective
  Your job is to crack as many passwords as possible with available tools. Here are your Task instructions:
 
 - Review the links provided in the additional resources (section 4) below to gain a background understanding of password cracking
@@ -10,7 +10,7 @@
 - Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
 - Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts.
 
-## Observations
+## 🔎 Observations
 Sample passwords provided are available at [passwd_dump.txt](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt).
 
 After cracking:
@@ -51,7 +51,7 @@ liveltekah:3f230640b78d7e71ac5514e57935eb69 - qazxsw
 blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ```
-## Email Report
+## 📄 Email Report
 ```
 Dear Sir/Madam,
 
@@ -83,7 +83,7 @@ Thanks,
 Xiaokun Du
 
 ```
-## Resources
+## 📚 Resources
 
 - Goldman Sach Virtual Internship Programme: [https://www.theforage.com/virtual-internships/prototype/NPdeQ43o8P9HJmJzg/Goldman-Sachs-Virtual-Experience-Program?ref=WXfC2wsoQxMokZAmF](https://www.theforage.com/virtual-internships/prototype/NPdeQ43o8P9HJmJzg/Goldman-Sachs-Virtual-Experience-Program?ref=WXfC2wsoQxMokZAmF)
 - Password Cracking Explained: [https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/](https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/)
